@@ -1,50 +1,45 @@
-![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/guess_maths_result_game)
-![GitLab Languages](https://img.shields.io/github/languages/count/wemiibidun/guess_maths_result_game)
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-
-
-# Web-based Maths Game 
-This web-based maths game asks users to input 2 numbers and accept the values. The user is asked to guess the result and the game will tell the user if it's right or wrong
+# Star Math Challenge
 
 ## Table of contents
 * [Introduction](#introduction)
 * [Screenshot](#screenshot)
-* [Technologies](#technologies-language-library-and-framework)
+* [Technologies](#technologies)
 * [Features](#features)
-* [Link to Published Maths Game](#link-to-published-portfolio)
+* [How It Works](#how-it-works)
+* [Link to Published Project](#link-to-published-project)
 * [Status](#status)
 * [Contact](#contact)
 
-
 ## Introduction
-The aim of this project was to create a simple web-based maths game that does simple maths operations
+Star Math Challenge is a kid‑friendly arithmetic game with timed rounds, difficulty levels, and score tracking. It generates questions automatically and keeps your best score between sessions.
 
 ## Screenshot
-![Sample image](https://github.com/wemiibidun/guess_maths_result_game/blob/main/maths_game.png)
+Add a screenshot here after deployment.
 
-## Technologies (Language, Library and Framework)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
-![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB)
-* HTML
-* CSS
-* Javascript
+## Technologies
+* HTML — layout structure
+* CSS — space‑themed UI styling
+* JavaScript — game logic, scoring, and timing
+* LocalStorage — saved best score
 
 ## Features
-The GUI of this project allows users to:
-* Input two numbers
-* Generates random maths operator
-* Users can guess the result
-* Game tells users if the answer is right or wrong
+* Auto‑generated math questions
+* Difficulty levels (easy, medium, hard)
+* 30‑second rounds with a progress bar
+* Score, streak, and best‑score tracking
+* Recent attempts history
 
-## Link to Published Game
+## How It Works
+1. Choose a difficulty and press “Start round.”
+2. Solve the question before the timer runs out.
+3. Submit your answer to earn points and build a streak.
+4. Best score is saved locally.
 
-[web-based-maths-game]([https://wemiibidun.github.io/guess_maths_result_game/])
-
+## Link to Published Project
+(Coming soon)
 
 ## Status
 Project is: _Complete_
 
 ## Contact
-Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
+Created by [@wemiibidun](https://github.com/wemiibidun)
