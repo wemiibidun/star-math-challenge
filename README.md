@@ -37,7 +37,7 @@ Add a screenshot here after deployment.
 4. Best score is saved locally.
 
 ## Link to Published Project
-(Coming soon)
+[Math Game Webpage](https://wemiibidun.github.io/jammming/)
 
 ## Status
 Project is: _Complete_
