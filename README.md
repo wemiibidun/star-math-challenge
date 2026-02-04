@@ -15,7 +15,7 @@ Star Math Challenge is a kid‑friendly arithmetic game with timed rounds, diffi
 
 ## Screenshot
 Add a screenshot here after deployment.
-https://github.com/wemiibidun/star-math-challenge/blob/main/maths_game.png
+![Maths game preview](https://github.com/wemiibidun/star-math-challenge/blob/main/maths_game.png)
 
 ## Technologies
 * HTML — layout structure
