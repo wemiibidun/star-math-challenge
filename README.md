@@ -37,7 +37,7 @@ Add a screenshot here after deployment.
 4. Best score is saved locally.
 
 ## Link to Published Project
-[Math Game Webpage](https://wemiibidun.github.io/jammming/)
+[Math Game Webpage](https://wemiibidun.github.io/star-math-challenge/)
 
 ## Status
 Project is: _Complete_
